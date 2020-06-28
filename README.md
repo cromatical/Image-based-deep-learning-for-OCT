@@ -10,9 +10,9 @@
 
 ## 구현결과
 
-![](img/웹.png?raw=true){: width="300" height="200"}
+![](img/웹.PNG)
 
-![](img/pyqt5.png?raw=true){: width="300" height="200"}
+![](img/pyqt5.PNG)
 
 
 ## 구현 수행 방법
