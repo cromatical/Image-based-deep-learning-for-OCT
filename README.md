@@ -10,8 +10,8 @@
 
 ## 구현결과
 
-![pyqt5](./img/웹.png){: width="300" height="200"}
-![pyqt5](./img/pyqt5.png){: width="300" height="200"}
+![pyqt5](https://github.com/cromatical/Image-based-deep-learning-for-OCT/tree/master/img/웹.png){: width="300" height="200"}
+![pyqt5](https://github.com/cromatical/Image-based-deep-learning-for-OCT/tree/master/img/pyqt5.png){: width="300" height="200"}
 
 
 ## 구현 수행 방법
