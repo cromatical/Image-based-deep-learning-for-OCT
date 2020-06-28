@@ -19,21 +19,13 @@
 ## 구현 수행 방법
 
 - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
-
 - [TensorFlow Wide & Deep Learning 튜토리얼](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/wide_and_deep/)
-
 - [케라스: 파이썬 딥러닝 라이브러리](https://keras.io/ko/)
-
 - [김태영의 케라스 블로그](https://tykimos.github.io/index.html)
-
 - [scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
-
 - [kaggle](https://www.kaggle.com/datasets)
-
 - [KEKOxTutorial](https://keraskorea.github.io/posts/2018-10-24-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%A1%9C%EC%84%9C%20%EC%BC%80%EB%9D%BC%EC%8A%A4%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20%EC%99%84%EC%A0%84%20%EA%B0%80%EC%9D%B4%EB%93%9C/)
-
 - [LAON PEOPLE](https://blog.naver.com/laonple)
-
 - [Transfer learning](https://jeinalog.tistory.com/13)
 
 
