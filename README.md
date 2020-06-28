@@ -27,7 +27,7 @@
 - [KEKOxTutorial](https://keraskorea.github.io/posts/2018-10-24-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%A1%9C%EC%84%9C%20%EC%BC%80%EB%9D%BC%EC%8A%A4%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20%EC%99%84%EC%A0%84%20%EA%B0%80%EC%9D%B4%EB%93%9C/)
 - [LAON PEOPLE](https://blog.naver.com/laonple)
 - [Transfer learning](https://jeinalog.tistory.com/13)
-
+---
 - [참고 논문 : Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning](https://www.sciencedirect.com/science/article/pii/S0092867418301545)
 
 
