@@ -10,9 +10,9 @@
 
 ## 구현결과(진행중)
 
-![](img/웹.PNG)
+<center>![](img/웹.PNG)</center>
 
-![](img/pyqt5.PNG)
+<center>![](img/pyqt5.PNG)</center>
 
 
 ## 구현 수행 방법
