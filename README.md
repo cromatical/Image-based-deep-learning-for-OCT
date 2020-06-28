@@ -10,7 +10,7 @@
 
 ## 구현결과
 
-![웹](/img/웹.png){: width="300" height="200"}
+<img src="/img/웹.png"  width="300" height="270">
 ![pyqt5](/img/pyqt5.png){: width="300" height="200"}
 
 
