@@ -3,7 +3,8 @@
 
 ## 목차
 - [요구사항 및 설계](https://github.com/cromatical/Image-based-deep-learning-for-OCT/tree/master/documents)
-- 구현결과
+- [구현결과 - 성능](https://github.com/cromatical/Image-based-deep-learning-for-OCT/tree/master/img)
+- [구현결과 - heatmap](https://github.com/cromatical/Image-based-deep-learning-for-OCT/tree/master/img)
 - 구현 수행 방법
 - 발표 영상
 
