@@ -10,8 +10,8 @@
 
 ## 구현결과
 
-![웹](./img/웹.png){: width="300" height="200"}
-![pyqt5](./img/pyqt5.png){: width="300" height="200"}
+![웹](/img/웹.png){: width="300" height="200"}
+![pyqt5](/img/pyqt5.png){: width="300" height="200"}
 
 
 ## 구현 수행 방법
