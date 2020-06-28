@@ -10,8 +10,8 @@
 
 ## 구현결과
 
-<img src="/img/웹.png"  width="300" height="270">
-![pyqt5](/img/pyqt5.png){: width="300" height="200"}
+![pyqt5](./img/웹.png){: width="300" height="200"}
+![pyqt5](./img/pyqt5.png){: width="300" height="200"}
 
 
 ## 구현 수행 방법
@@ -23,8 +23,7 @@
 3.   [PBL3 결과발표](https://youtu.be/9KmefKyzbtk)
 4.   [최종 결과발표](https://youtu.be/xeYtalinIlA)
 
----
-
+## Maker
 - 2013013382 이윤환 lyh940830@gmail.com
 
 - 2013013366 김동휘 kimdonghwi94@gmail.com
