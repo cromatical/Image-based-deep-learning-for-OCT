@@ -10,9 +10,9 @@
 
 ## 구현결과(진행중)
 
-<center><img src="/img/웹.PNG" width="300" height="300"></center>
+<center><img src="/img/웹.PNG" width="800" height="500"></center>
 
-<center><img src="/img/pyqt5.PNG" width="300" height="300"></center>
+<center><img src="/img/pyqt5.PNG" width="800" height="500"></center>
 
 
 ## 구현 수행 방법
