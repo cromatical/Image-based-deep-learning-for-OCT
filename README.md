@@ -8,13 +8,13 @@
 - 발표 영상
 
 
-### 구현결과
+## 구현결과
 
----
-### 구현 수행 방법
 
----
-### 발표영상
+## 구현 수행 방법
+
+
+## 발표영상
 1.   [PBL1 결과발표](https://youtu.be/YIwPM7o87uE)
 2.   [PBL2 결과발표](https://youtu.be/zJtn4eeDvb8 )
 3.   [PBL3 결과발표](https://youtu.be/9KmefKyzbtk)
