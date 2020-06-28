@@ -6,7 +6,7 @@
       "name": "README.md",
       "provenance": [],
       "collapsed_sections": [],
-      "authorship_tag": "ABX9TyMYnxZsko6+tA9D25NRjchb",
+      "authorship_tag": "ABX9TyP8TAObX5tiKz4mz1+Ehn8t",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -58,19 +58,6 @@
       "source": [
         "### 3. 구현 결과"
       ]
-    },
-    {
-      "cell_type": "code",
-      "metadata": {
-        "id": "83j8kOZvXlzD",
-        "colab_type": "code",
-        "colab": {}
-      },
-      "source": [
-        ""
-      ],
-      "execution_count": null,
-      "outputs": []
     },
     {
       "cell_type": "markdown",
