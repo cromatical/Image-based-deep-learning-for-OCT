@@ -28,6 +28,8 @@
 - [LAON PEOPLE](https://blog.naver.com/laonple)
 - [Transfer learning](https://jeinalog.tistory.com/13)
 
+- [참고 논문 : Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning](https://www.sciencedirect.com/science/article/pii/S0092867418301545)
+
 
 ## 발표영상
 1.   [PBL1 결과발표](https://youtu.be/YIwPM7o87uE)
