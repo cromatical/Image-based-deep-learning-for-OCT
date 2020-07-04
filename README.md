@@ -9,7 +9,7 @@
 - 발표 영상
 
 
-## 구현결과(진행중)
+## 구현결과
 
 <center><img src="/img/웹.PNG" width="800" height="500"></center>
 
