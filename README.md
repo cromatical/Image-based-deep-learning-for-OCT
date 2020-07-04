@@ -13,9 +13,9 @@
 
 <center><img src="/img/웹.PNG" width="800" height="500"></center>
 
-<center><img src="/img/pyqt5_1.PNG" width="800" height="500"></center>
+<center><img src="/img/pyqt5_1.png" width="800" height="500"></center>
 
-<center><img src="/img/pyqt5_2.PNG" width="800" height="500"></center>
+<center><img src="/img/pyqt5_2.png" width="800" height="500"></center>
 
 
 ## 구현 수행 방법
