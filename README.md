@@ -1,6 +1,8 @@
 # 2020 Capstone Design
 
-## update : release ver2.0
+## update : release ver 2.0 (2020.07.08)
+- 원하는 모델을 불러올수 있도록 'Model' 버튼 추가
+- 결과가 같이 않을시에 CSV파일 생성후 image경로 저장
 
 
 ## 목차
