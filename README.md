@@ -1,5 +1,9 @@
 # 2020 Capstone Design
 
+## 실행방법
+1. GUI에 있는 압축파일을 풀어서 C드라이브에 넣어줍니다.
+2. MainWindow.py파일을 실행 
+
 ## Update ver 2.0 (2020.07.08)
 - 원하는 모델을 불러올수 있도록 'Model' 버튼 추가.
 - AI진단과 의사진단 결과가 서로 다르면 CSV파일 생성후 image file 경로 저장.
