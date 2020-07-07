@@ -1,6 +1,6 @@
 # 2020 Capstone Design
 
-## Update : release ver 2.0 (2020.07.08)
+## Update ver 2.0 (2020.07.08)
 - 원하는 모델을 불러올수 있도록 'Model' 버튼 추가.
 - AI진단과 의사진단 결과가 서로 다르면 CSV파일 생성후 image file 경로 저장.
 
