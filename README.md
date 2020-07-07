@@ -1,5 +1,7 @@
 # 2020 Capstone Design
 
+## update : release ver2.0
+
 
 ## 목차
 - [요구사항 및 설계](https://github.com/cromatical/Image-based-deep-learning-for-OCT/tree/master/documents)
