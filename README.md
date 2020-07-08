@@ -6,8 +6,13 @@
 
 ## Update ver 2.0 (2020.07.08)
 - 원하는 모델을 불러올수 있도록 'Model' 버튼 추가.
-- AI진단과 의사진단 결과가 서로 다르면 CSV파일 생성후 image file 경로 저장.
+- 의사진단과 AI진단 결과가 서로 다르면 CSV파일 생성후 image file 경로 저장.
 
+## Ver 1.0 (2020.07.04)
+- 의사진단과 AI진단 비교
+- OCT이미지 클래스분류 및 확률표시
+- Heatmap 이미지 출력
+- 결과 비교테이블 제공(Confusion Matrix)
 
 ## 목차
 - [요구사항 및 설계](https://github.com/cromatical/Image-based-deep-learning-for-OCT/tree/master/documents)
